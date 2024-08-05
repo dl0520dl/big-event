@@ -1,5 +1,5 @@
 # big-event前端代码
-vue3
+springBoot + vue3
 
 ### 项目运行
 
