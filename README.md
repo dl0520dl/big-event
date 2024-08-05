@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/e37bac66-8cf0-4eac-af5a-76ad9e1bbf81)# big-event
-
-big-event前端代码
+# big-event前端代码
 
 
 
