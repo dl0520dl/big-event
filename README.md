@@ -1,6 +1,6 @@
 # big-event
 
-big-event项目前端完整代码
+big-event前端代码
 
 
 
